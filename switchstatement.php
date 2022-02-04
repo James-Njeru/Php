@@ -1,9 +1,9 @@
 <?php
-  $color = "red";
+  $car = "mercedes";
 
   switch ($color) {
   	case 'value':
-  		// code...
+  		echo "You love mercedes car";
   		break;
   	
   	default:
